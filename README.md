@@ -1,1 +1,5 @@
 # resources
+
+## Games in rust
+
+* https://kyren.github.io/2018/09/14/rustconf-talk.html
